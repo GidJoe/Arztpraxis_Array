@@ -117,7 +117,7 @@ public class Main {
             }
 
             // Menü Auswahl 7
-            if (menu == 7) {
+            if (menu == 5) {
                 TimeUnit.SECONDS.sleep(1);
                 System.out.println(wartezimmer[0] + " wurde aufgerufen");
                 TimeUnit.SECONDS.sleep(1);
